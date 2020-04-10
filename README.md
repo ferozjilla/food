@@ -11,3 +11,8 @@ We wish to:
 - know our fav recipes that we can cook with the ingredients
 - let us put dishes in a calendar
 - allow us to discover recipes with the ingredients we have 
+
+### Next steps
+
+- Test drive the web server: basics of testing a web server in ginkgo
+- Store data: persist data sent through post requests, and return the same for get
