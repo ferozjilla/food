@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/ferozjilla/home/food"
+	. "github.com/ferozjilla/home/food/food"
 )
 
 var _ = Describe("Food", func() {
